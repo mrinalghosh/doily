@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# --- Node / Vite ---
+node_modules/
+.vite/
+*.local
+
+# Playwright MCP scratch output
+.playwright-mcp/
